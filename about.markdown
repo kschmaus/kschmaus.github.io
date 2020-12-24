@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/boug.jpg" width="400">.
+<img src="/assets/images/boug.jpg" width="400">.
 
 My name's Kyle Schmaus. I've been a Data Scientist for 6 years, and this is my first forey into blogging. Right now it's a glorified notebook, but you have to start somewhere. 
 

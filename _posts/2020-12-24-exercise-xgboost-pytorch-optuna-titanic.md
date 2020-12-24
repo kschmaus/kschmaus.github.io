@@ -213,7 +213,9 @@ class FeaturePreprocessor(BaseEstimator, TransformerMixin):
         self.embarked_mode_ = X.Embarked.mode()[0]
 
         cabin_letter = (
-            X.Cabin.fillna(self.cabin_na_fill).str.split(" ").apply(first_letter)
+            X.Cabin.fillna(self.cabin_na_fill)
+            .str.split(" ")
+            .apply(first_letter)
         )
         self.mlb_cabin_letter.fit(cabin_letter)
 
@@ -230,7 +232,9 @@ class FeaturePreprocessor(BaseEstimator, TransformerMixin):
 
         cabin = X.Cabin.fillna(self.cabin_na_fill)
 
-        x_n_cabins = cabin.str.strip().str.split(" ").apply(len).values.reshape((-1, 1))
+        x_n_cabins = (
+            cabin.str.strip().str.split(" ").apply(len).values.reshape((-1, 1))
+        )
 
         cabin_letter = cabin.str.split(" ").apply(first_letter)
         x_cabin_letter = self.mlb_cabin_letter.transform(cabin_letter)
@@ -240,7 +244,9 @@ class FeaturePreprocessor(BaseEstimator, TransformerMixin):
         )
 
         x_ticket_group = (
-            X.Ticket.isin(self.duplicated_tickets_).astype(int).values.reshape((-1, 1))
+            X.Ticket.isin(self.duplicated_tickets_)
+            .astype(int)
+            .values.reshape((-1, 1))
         )
 
         x_ohe = self.ohe.transform(X[self.ohe_columns]).toarray()
@@ -298,7 +304,9 @@ def cv_xgb_nll(
     subsample: float,
 ) -> float:
     test_log_loss = []
-    stratified_k_fold = StratifiedKFold(n_splits=10, shuffle=True, random_state=24601)
+    stratified_k_fold = StratifiedKFold(
+        n_splits=10, shuffle=True, random_state=24601
+    )
     for train_index, test_index in stratified_k_fold.split(x, y):
         x_cv_train = x[train_index]
         x_cv_test = x[test_index]
@@ -319,7 +327,9 @@ def cv_xgb_nll(
             use_label_encoder=False,
         )
         xgb_classifier.fit(x_cv_train, y_cv_train)
-        prob_cv_test = xgb_classifier.predict_proba(x_cv_test)[:, 1].astype(np.float64)
+        prob_cv_test = xgb_classifier.predict_proba(x_cv_test)[:, 1].astype(
+            np.float64
+        )
         test_log_loss.append(log_loss(y_true=y_cv_test, y_pred=prob_cv_test))
 
     return float(np.mean(test_log_loss))
@@ -347,7 +357,9 @@ def cv_xgb_optuna_objective(trial: optuna.Trial) -> float:
 
 ```python
 xgb_sampler = optuna.samplers.TPESampler(seed=SEED)
-xgb_study = optuna.create_study(study_name="cv-xgb-titanic", sampler=xgb_sampler)
+xgb_study = optuna.create_study(
+    study_name="cv-xgb-titanic", sampler=xgb_sampler
+)
 xgb_study.optimize(cv_xgb_optuna_objective, n_trials=100)
 pd.DataFrame([xgb_study.best_params]
 ```
@@ -412,7 +424,7 @@ xgb_total_minutes = xgb_study_df.duration.sum().seconds / 60
 ```
 
 
-![png](/assets/2020-12-24-exercise-xgboost-pytorch-optuna-titanic/output_12_0.png)
+![png](/assets/images/2020-12-24-exercise-xgboost-pytorch-optuna-titanic/output_12_0.png)
 
 
 ```python
@@ -477,7 +489,9 @@ def cv_pt_nll(
     weight_decay: float,
 ):
     test_log_loss = []
-    stratified_k_fold = StratifiedKFold(n_splits=10, shuffle=True, random_state=24601)
+    stratified_k_fold = StratifiedKFold(
+        n_splits=10, shuffle=True, random_state=24601
+    )
     for train_index, test_index in stratified_k_fold.split(x, y):
         x_cv_train = x[train_index].astype(np.float32)
         x_cv_test = x[test_index].astype(np.float32)
@@ -507,8 +521,10 @@ def cv_pt_optuna_objective(trial: optuna.Trial) -> float:
     dropout_rates = []
     for i in range(n_hidden_layers):
         hidden_layers.append(trial.suggest_int(f"hidden_layer{i}", 4, 256))
-        dropout_rates.append(trial.suggest_uniform(f"dropout_rate{i}", 0.0, 0.5))
-
+        dropout_rates.append(
+            trial.suggest_uniform(f"dropout_rate{i}", 0.0, 0.5)
+        )
+        
     return cv_pt_nll(
         x=x_train,
         y=y_train,
@@ -544,7 +560,7 @@ pt_total_minutes = pt_study_df.duration.sum().seconds / 60
 ```
 
 
-![png](/assets/2020-12-24-exercise-xgboost-pytorch-optuna-titanic/output_20_0.png)
+![png](/assets/images/2020-12-24-exercise-xgboost-pytorch-optuna-titanic/output_20_0.png)
 
 
 ```python
@@ -588,5 +604,5 @@ pred_df = pd.DataFrame({"xgb_pred": xgb_pred, "pt_pred": pt_pred})
 ```
 
 
-![png](/assets/2020-12-24-exercise-xgboost-pytorch-optuna-titanic/output_25_0.png)
+![png](/assets/images/2020-12-24-exercise-xgboost-pytorch-optuna-titanic/output_25_0.png)
 
