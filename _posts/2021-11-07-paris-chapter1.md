@@ -24,7 +24,6 @@ I woke up to a message from our Airbnb host that they had double booked themselv
 
 Thankfully, the rest of my travel day was uneventful. I showed up at the airport plenty early. I can't recommend enough getting TSA pre-check - it's kind of BS but you end up getting "lordly" treatment compared to everyone else. I skipped the line, and had to do far less security theater. The flight itself was under-booked, and I was able to move to a row where I got 4 middle seats all to myself. I slept after dinner, actually being able to lay down in my personal row. 
 
-![](/assets/images/2021-11-07-paris-chapter1/storage.jpeg)
 ![](/assets/images/2021-11-07-paris-chapter1/airport.jpeg)
 ![](/assets/images/2021-11-07-paris-chapter1/tsa-prep.jpeg)
 
