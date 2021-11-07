@@ -70,8 +70,11 @@ Today (Sunday the 7th) we took a trip to check out _"La REcyclerie"_, an old tra
 It hasn't been all doom and gloom. It **has** been stressful to be sure, but Paris is beautiful and exciting. Getting around is easy, and the city is packed with things to do. The food is great, at both restaurants and at cute organic grocers and specialty shops. I have a huge list of museums, galleries, game shops, and karaoke bars we'll be hitting up. And it's been great to be back together. Soon we'll put this this initial turbulence behind us. Until then, wish us luck. 
 
 ![Tiles 1](/assets/images/2021-11-07-paris-chapter1/tile1.jpeg)
+
 ![Tiles 2](/assets/images/2021-11-07-paris-chapter1/tile2.jpeg)
+
 ![Tiles 3](/assets/images/2021-11-07-paris-chapter1/tile3.jpeg)
+
 ![Tiles 4](/assets/images/2021-11-07-paris-chapter1/tile4.jpeg)
 
 
