@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chapter 1: You May Experience Turbulence"
+title: "Chapter 1: You May Experience Some Turbulence"
 date: 2021-11-07 00:00:00 -0000
 categories: blog
 ---
@@ -36,18 +36,22 @@ Angela and I met at the airport. I hadn't seen her in over a month, so it was pr
 
 Here are pictures around our hotel. 
 
-![Outside Hotel 1](/assets/images/2021-11-07-paris-chapter1/outside1.jpeg)![Outside Hotel 2](/assets/images/2021-11-07-paris-chapter1/outside2.jpeg)![Outside Hotel 3](/assets/images/2021-11-07-paris-chapter1/outside3.jpeg)
+![Outside Hotel 1](/assets/images/2021-11-07-paris-chapter1/outside1.jpeg)
+![Outside Hotel 2](/assets/images/2021-11-07-paris-chapter1/outside2.jpeg)
+![Outside Hotel 3](/assets/images/2021-11-07-paris-chapter1/outside3.jpeg)
 
 ## And Now Listen To My Tale Of Woe
 
 During this time I was messaging our hosts: they still hadn't given us checkin information. At the end of the 3rd, nothing. I took the 4th off of work, expecting it to be a long day (I wasn't wrong). In the morning I called them multiple times, and on the other line heard (_en français_) that their message machine was full. Finally, after 12:00 when we'd checked out of our hotel room, Angela got ahold of them. They said they'd send us an email with a link describing the checkin process, and then hung up. A link did come, but it was broken 🤦🏻‍♂️. 
 
-![We Are Sorry](/assets/images/2021-11-07-paris-chapter1/we-are-sorry.PNG)
+![We Are Sorry](/assets/images/2021-11-07-paris-chapter1/we-are-sorry.PNG)
+
 We got them back on the phone - "Can you send a picture of the information". They did, but their picture didn't say anything about what the gate code was, or how to get the key. After a third call, we finally got all the information. When we showed up at 3:00pm, the specified time, we were met by a representative of the host. He was nice enough and apologetic, even a little charming (he really needed to be), but he explained that they wouldn't be done cleaning the apartment until 4:00pm. Ok. We grabbed some food at a café, and came back an hour later. Finally we checked into our place. 
 
 It wasn't perfect. There was only one key to the door (we were told they would get us a second key "soon"). The bed-frame was damaged somehow, and creaked profusely with any movement from either of us. By far the worst issue, however, was the mold. When we checked in, the apartment still smelled of cleaning product, but as that wore off, I realized there was something that smelled seriously musty. I first noticed a little bit of mold in the laundry room, and then more and more in the kitchen area. 
 
-![Mold 1](/assets/images/2021-11-07-paris-chapter1/mold1.jpeg)![Mold 2](/assets/images/2021-11-07-paris-chapter1/mold2.jpeg)
+![Mold 1](/assets/images/2021-11-07-paris-chapter1/mold1.jpeg)
+![Mold 2](/assets/images/2021-11-07-paris-chapter1/mold2.jpeg)
 
 The smell is not overwhelming, but it is somewhere between mildly and moderately unpleasant. I decided that it was "safe" to say here a few nights, but not a good idea for us to stay here for 6 months. Exhausted and angry, I wrote a letter to the host and to Airbnb support explaining the situation. Given the last few days, my hopes of them dealing with situation weren't very high. Thankfully, I woke up to the following message: 
 
