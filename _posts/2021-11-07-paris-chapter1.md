@@ -57,7 +57,7 @@ The smell is not overwhelming, but it is somewhere between mildly and moderately
 
 ![Message](/assets/images/2021-11-07-paris-chapter1/message.jpeg)
 
-Great I thought, maybe we can make this work. I was told that an agent would come to the house tomorrow (Saturday) to "take care of it". "Fantastic, _merci beaucoup!_ Is there a time I should expect them?" Radio silence for much of the day, then a message that "the agent hasn't confirmed the time". Ok. I worked the rest of the day at an Airbnb (which was quite nice), having a lunch of apples and pâté at the park. 
+Great I thought, maybe we can make this work. I was told that an agent would come to the house tomorrow (Saturday) to "take care of it". "Fantastic, _merci beaucoup!_ Is there a time I should expect them?" Radio silence for much of the day, then a message that "the agent hasn't confirmed the time". Ok. I worked the rest of the day at a WeWork (which was quite nice), having a lunch of apples and pâté at the park. 
 
 ![WeWork](/assets/images/2021-11-07-paris-chapter1/we-work.jpeg)
 ![Park](/assets/images/2021-11-07-paris-chapter1/park.jpeg)
