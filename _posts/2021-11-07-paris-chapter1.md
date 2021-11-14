@@ -18,7 +18,7 @@ On October 30th I emptied my apartment of the leftover odds and ends, packing of
 
 In preparation for my trip, I'd been setting my morning alarm earlier and earlier. Every day I woke up 20 or 30 minutes earlier than the day before. On October 31st, the day I flew, I woke up at 3:30AM. That morning things did not go according to plan. 
 
-I woke up to a message from our Airbnb host that they had double booked themselves. Angela was meant to checkin that day, but now they wouldn't be ready for us until November 4th. Over the next hour I was messaging the host, talking to Airbnb support on the phone, and relaying things to Angela. The host offered us another listing, but it was on the other side of town, on the 6th floor with no elevator - there was just no way Angela could get all her luggage their by herself. Eventually we settled on Angela getting a hotel in the area we'd be staying. This wasn't the last issue with the host though, not by a long shot. 
+I woke up to a message from our Airbnb host that they had double booked themselves. Angela was meant to checkin that day, but now they wouldn't be ready for us until November 4th. Over the next hour I was messaging the host, talking to Airbnb support on the phone, and relaying things to Angela. The host offered us another listing, but it was on the other side of town, on the 6th floor with no elevator - there was just no way Angela could get all her luggage there by herself. Eventually we settled on Angela getting a hotel in the area we'd be staying. This wasn't the last issue with the host though, not by a long shot. 
 
 ## Reunited And It Feels So Good 
 
