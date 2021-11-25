@@ -52,11 +52,12 @@ It was fun to paint the town red - I hadn't stayed out that late in a long time!
 
 ## Board Game "Fun"
 
+![](/assets/images/2021-11-25-paris-chapter2/board_game.png)
+
 Ever since the pandemic, Angela and I have both been obsessed with [www.boardgamearena.com](www.boardgamearena.com). It's been a great way to socialize during pandemic times - and now that we're over seas it's a good way to "hang out" with people in the US (shameless plug, reach out to us if you want to schedule some time to game with us). 
 
 We've both been playing a lot of Agricola - a fairly complicated farming game. Angela realized you could play it in solitaire mode, and ever since then we've been trying to min-max the the highest possible score (we are a fun couple :D). So far this is our best effort:
 
-![](/assets/images/2021-11-25-paris-chapter2/board_game.png)
 ![](/assets/images/2021-11-25-paris-chapter2/agricola-gamers.png)
 
 
