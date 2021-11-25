@@ -69,7 +69,7 @@ We've both been playing a lot of Agricola - a fairly complicated farming game. A
 
 * We had Angela's teacher friend over, and we're planning on having a few of her coworkers over for a "Thanksgiving" this Saturday. 
 
-## Random Photos
+## Random Photos (Mostly Food)
 
 ![](/assets/images/2021-11-25-paris-chapter2/angela-food-1.jpeg)
 ![](/assets/images/2021-11-25-paris-chapter2/angela-food-2.jpeg)
