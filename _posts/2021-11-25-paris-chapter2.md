@@ -21,7 +21,7 @@ Ever since I moved into the mold apartment, each day I scoured the internet for 
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-1.jpg)
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-3.jpeg)
 
-Tall ceilings, a large living room, reasonably sized kitchens and bathrooms (reasonable for Paris), plenty of storage - it feels pretty luxe right about now. We did pick up a couple cheap items from Ikea, like a jacket rack and some bins for recycling. Maybe the best thing about the new place has been the landlord. Instead of a shady company, she's a single person with one Airbnb listing. She's super communicative and kind, and has already sent us a second pair of keys, a new water kettle, ordered us a dining table and a set of chairs,  and scheduled repairs on the washing machine and freezer. 
+Tall ceilings, a large living room, reasonably sized kitchens and bathrooms (reasonable for Paris), plenty of storage - it feels pretty luxe right about now. We did pick up a couple cheap items from Ikea, like a jacket rack and some bins for recycling. Maybe the best thing about the new place has been the landlord. Instead of a shady company, she's a single person with one Airbnb listing. She's super communicative and kind, and has already sent us a second pair of keys, a new water kettle, ordered us a dining table and a set of chairs,  and scheduled repairs on the dishwasher and freezer. 
 
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-2.jpeg)
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-4.JPG)
