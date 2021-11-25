@@ -21,12 +21,12 @@ Ever since I moved into the mold apartment, each day I scoured the internet for 
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-1.jpg)
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-3.jpeg)
 
-Tall ceilings, a large living room, reasonably sized kitchens and bathrooms (reasonable for Paris), plenty of storage - it feels pretty luxe right about now. We did pick up a couple cheap items from Ikea, like a jacket rack and some bins for recycling. Maybe the best thing about the new place has been the landlord. Instead of a shady company, she's a single person with one Airbnb listing. She's super communicative and kind, and has already sent us a second pair of keys, a new water kettle, ordered us a diting table and a set of chairs, schedulued repairs on the washing machine and freezer. 
+Tall ceilings, a large living room, reasonably sized kitchens and bathrooms (reasonable for Paris), plenty of storage - it feels pretty luxe right about now. We did pick up a couple cheap items from Ikea, like a jacket rack and some bins for recycling. Maybe the best thing about the new place has been the landlord. Instead of a shady company, she's a single person with one Airbnb listing. She's super communicative and kind, and has already sent us a second pair of keys, a new water kettle, ordered us a dining table and a set of chairs,  and scheduled repairs on the washing machine and freezer. 
 
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-2.jpeg)
 ![](/assets/images/2021-11-25-paris-chapter2/apartment-4.JPG)
 
-The neighborhood is super cute, too. A lot of tile "graffiti" (very toursity but I'm here for it). A lot of cute restaurante and grocery options - we both really liked eating at the "Queen Anne". We're also just a few blocks from [Le Centre Pompidou](https://www.centrepompidou.fr/en/) (we're planning on going today, actually!). 
+The neighborhood is super cute, too. A lot of tile "graffiti" (very touristy but I'm here for it). A lot of cute restaurants and grocery options - we both really liked eating at the "Queen Anne". We're also just a few blocks from [Le Centre Pompidou](https://www.centrepompidou.fr/en/) (we're planning on going today, actually!). 
 
 ![](/assets/images/2021-11-25-paris-chapter2/queen-anne1.jpeg)
 ![](/assets/images/2021-11-25-paris-chapter2/queen-anne2.jpeg)
@@ -34,12 +34,12 @@ The neighborhood is super cute, too. A lot of tile "graffiti" (very toursity but
 ![](/assets/images/2021-11-25-paris-chapter2/gremlin.jpeg)
 ![](/assets/images/2021-11-25-paris-chapter2/tile.jpeg)
 
-The downsides of the new sport are it's more expensive, and Angela's commute is quite a bit longer now (she works in the 9th and 10th). I lucked out - there's a nother WeWork that's a 3 minute walk away - "WeWork Cœur Marais". 
+The downsides of the new sport are it's more expensive, and Angela's commute is quite a bit longer now (she works in the 9th and 10th). I lucked out - there's another WeWork that's a 3 minute walk away - "WeWork Cœur Marais". 
 
 ![](/assets/images/2021-11-25-paris-chapter2/wework1.jpeg)
 ![](/assets/images/2021-11-25-paris-chapter2/wework2.jpeg)
 
-## American's Just Want to Have Fun
+## Americans Just Want to Have Fun
 
 On Saturday the 13th we met up with a mixed group of French and Americans, and did Karaoke until 2:00am. It was a blast! Unfortunately, I don't think we took any photos, that night - our bad. We met them in front of a Lego store, so there's this pic of Angela. 
 
@@ -52,9 +52,9 @@ It was fun to paint the town red - I hadn't stayed out that late in a long time!
 
 ## Board Game "Fun"
 
-Every since the pandemic, Angela and I have both been obsessed with [www.boardgamearena.com](www.boardgamearena.com). It's been a great way to socialize during pandemic times - and now that we're over seas it's a good way to "hang out" with people in the US (shameless plug, reach out to us if you want to schedule some time to game with us). 
+Ever since the pandemic, Angela and I have both been obsessed with [www.boardgamearena.com](www.boardgamearena.com). It's been a great way to socialize during pandemic times - and now that we're over seas it's a good way to "hang out" with people in the US (shameless plug, reach out to us if you want to schedule some time to game with us). 
 
-We've both been playing a lot of Agricola - a fairly complicated farming game. Angela realized you could play it in solatair mode, and ever since then we've been trying to min-max the the highest possible score (we are a fun couple :D). So far this is our best effort:
+We've both been playing a lot of Agricola - a fairly complicated farming game. Angela realized you could play it in solitaire mode, and ever since then we've been trying to min-max the the highest possible score (we are a fun couple :D). So far this is our best effort:
 
 ![](/assets/images/2021-11-25-paris-chapter2/board_game.png)
 ![](/assets/images/2021-11-25-paris-chapter2/agricola-gamers.png)
