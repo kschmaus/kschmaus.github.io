@@ -18,33 +18,50 @@ Shortly after the last blogpost, Angela and I checked out the [Centre Pompidou](
 
 ## Thanksgiving
 
-A few days later, we had an American Thanksgiving! We had two teachers over that Angela works with, plus a partner and brother in tow. It went down surprisingly well! We got a turkey (from an American food specialty store), and made green beans and potatoes. The teacher's brother made a pumpkin pie - and whipped cream too!
+A few days later, we had an American Thanksgiving! We had two teachers over that Angela works with, plus a partner and brother in tow. It went down surprisingly well! We got a turkey (from an American food specialty store), and made green beans and potatoes. The teacher's brother made a pumpkin pie - and whipped cream too! It was super fun - the "first Thanksgiving" for Angela's co-workers. 
 
 ![](/assets/images/2021-12-25-paris-chapter3/tg1.jpg)
 
 ## Archives Nationales
 
-https://www.archives-nationales.culture.gouv.fr/en_GB/web/guest/site-de-paris
+Angela and I live on "Rue des Archives", named after the Paris branch of the [National Archive](https://www.archives-nationales.culture.gouv.fr/en_GB/web/guest/site-de-paris), which is set up in some old prince's estate. It was pretty cool, lots of old documents on display, some over 1000 years old. 
 
 ![](/assets/images/2021-12-25-paris-chapter3/na1.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/na2.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/na3.jpg)
+
+There were English translations of some French exhibit descriptions - this one was the funniest "Franglish". 
+
+![](/assets/images/2021-12-25-paris-chapter3/na2.jpg)
 
 ## Strasbourg, Capital of Christmas
 
-https://www.youtube.com/watch?v=w4oRS-72INY&ab_channel=TheNewYorkTimes
+Just few days ago, we took the train to Strasbourg for a day (and then to Frankfurt for two). Stasbourg has "the biggest Christmas market in the world", and ills itself as the "Capital of Christmas". It was fun - very old school French/German city center, very pretty. We wondered around town most of the day.
 
 ![](/assets/images/2021-12-25-paris-chapter3/sb1.jpg)
+
+There was an old covered bridge we went through used to store old gargoyles and statues. 
+
 ![](/assets/images/2021-12-25-paris-chapter3/sb2.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb3.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb4.jpg)
+
+The crowds got a little crazy in the evening. 
+
 ![](/assets/images/2021-12-25-paris-chapter3/sb5.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb6.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb7.jpg)
+
+There was plenty of treats and "Vin Chaud" to be had. 
+
 ![](/assets/images/2021-12-25-paris-chapter3/sb8.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb9.jpg)
+
+
+At the end of the day we went to Brasserie Les Haras, [they talk about it in this NYT video](https://www.youtube.com/watch?v=w4oRS-72INY&ab_channel=TheNewYorkTimes) - which is Michelin rated but not too expensive. 
+
 ![](/assets/images/2021-12-25-paris-chapter3/sb10.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb11.jpg)
+
 
 ## The Frank Ford on the Main
 
