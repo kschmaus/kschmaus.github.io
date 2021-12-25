@@ -41,9 +41,7 @@ Just few days ago, we took the train to Strasbourg for a day (and then to Frankf
 
 There was an old covered bridge we went through used to store old gargoyles and statues. 
 
-![](/assets/images/2021-12-25-paris-chapter3/sb2.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb3.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/sb4.jpg)
 
 The crowds got a little crazy in the evening. 
 
