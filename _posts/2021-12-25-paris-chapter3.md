@@ -86,7 +86,7 @@ Then we went to Frankfort! We went to a botanical garden ...
 
 ## Merry Christmas!
 
-Merry Christmas from Paris everyone! Looking forward to seeing you in the new year.
+Merry Christmas from Paris everyone! Looking forward to seeing you in the new year!
 
 ![](/assets/images/2021-12-25-paris-chapter3/px1.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/px2.jpg)
