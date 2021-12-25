@@ -49,10 +49,10 @@ The crowds got a little crazy in the evening.
 
 ![](/assets/images/2021-12-25-paris-chapter3/sb5.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb6.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/sb7.jpg)
 
 There was plenty of treats and "Vin Chaud" to be had. 
 
+![](/assets/images/2021-12-25-paris-chapter3/sb7.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb8.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/sb9.jpg)
 
@@ -65,18 +65,28 @@ At the end of the day we went to Brasserie Les Haras, [they talk about it in thi
 
 ## The Frank Ford on the Main
 
-![](/assets/images/2021-12-25-paris-chapter3/ff1.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/ff2.jpg)
+Then we went to Frankfort! We went to a botanical garden ...
+
 ![](/assets/images/2021-12-25-paris-chapter3/ff3.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff4.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff5.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff6.jpg)
+
+... and the [Städel Museum](https://www.staedelmuseum.de/en) ...
+
+![](/assets/images/2021-12-25-paris-chapter3/ff2.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff7.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff8.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff9.jpg)
+
+... and ate plenty of German food!
+
+![](/assets/images/2021-12-25-paris-chapter3/ff1.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff10.jpg)
 
 ## Merry Christmas!
+
+Merry Christmas from Paris everyone! Looking forward to seeing you in the new year.
 
 ![](/assets/images/2021-12-25-paris-chapter3/px1.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/px2.jpg)
