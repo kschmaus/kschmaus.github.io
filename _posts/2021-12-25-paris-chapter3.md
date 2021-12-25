@@ -5,9 +5,11 @@ date: 2021-12-25 00:00:00 -0000
 categories: blog
 ---
 
+It's been a month since a post, and I've got a lot to catch up on in this blog. With out further ado, here's a list of what we've been up to. 
+
 ## Le Centre Pompidou
 
-https://www.centrepompidou.fr/en/
+Shortly after the last blogpost, Angela and I checked out the [Centre Pompidou](https://www.centrepompidou.fr/en/) museum. It's a fun modern art museum that was having an exhibit on Georgia O'Keeffe. It was cool to see the Frenchies experience her - she's not very well known here, but the people their seemed to like her. We also ate at [Georges](https://restaurantgeorgesparis.com/en/), the restaurant on top of the museum - good food, great views. 
 
 ![](/assets/images/2021-12-25-paris-chapter3/cp1.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/cp2.jpg)
@@ -15,6 +17,8 @@ https://www.centrepompidou.fr/en/
 ![](/assets/images/2021-12-25-paris-chapter3/cp4.jpg)
 
 ## Thanksgiving
+
+A few days later, we had an American Thanksgiving! We had two teachers over that Angela works with, plus a partner and brother in tow. It went down surprisingly well! We got a turkey (from an American food specialty store), and made green beans and potatoes. The teacher's brother made a pumpkin pie - and whipped cream too!
 
 ![](/assets/images/2021-12-25-paris-chapter3/tg1.jpg)
 
