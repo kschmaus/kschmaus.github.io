@@ -63,14 +63,14 @@ At the end of the day we went to Brasserie Les Haras, [they talk about it in thi
 
 ## The Frank Ford on the Main
 
-Then we went to Frankfort! We went to a botanical garden ...
+Then we went to Frankfurt! We went to a botanical garden ...
 
 ![](/assets/images/2021-12-25-paris-chapter3/ff3.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff4.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff5.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff6.jpg)
 
-... and the [Städel Museum](https://www.staedelmuseum.de/en) ...
+... and the [Städel Museum](https://www.staedelmuseum.de/en) and [sculpture museum](https://www.frankfurt-tourismus.de/en/Media/Attractions/Museums/Liebieghaus-Skulpturensammlung-Museum-of-Ancient-Sculpture#/article/d2425f11-4eb1-49bc-bbde-45fb5932d3c5) ...
 
 ![](/assets/images/2021-12-25-paris-chapter3/ff2.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/ff7.jpg)
