@@ -18,7 +18,7 @@ Shortly after the last blogpost, Angela and I checked out the [Centre Pompidou](
 
 ## Thanksgiving
 
-A few days later, we had an American Thanksgiving! We had two teachers over that Angela works with, plus a partner and brother in tow. It went down surprisingly well! We got a turkey (from an American food specialty store), and made green beans and potatoes. The teacher's brother made a pumpkin pie - and whipped cream too! It was super fun - the "first Thanksgiving" for Angela's co-workers. 
+A few days later, we had an American Thanksgiving! We had two teachers over that Angela works with, plus a partner and a cousin in tow. It went down surprisingly well! We got a turkey (from an American food specialty store), and made green beans and potatoes. The teacher's brother made a pumpkin pie - and whipped cream too! It was super fun - the "first Thanksgiving" for Angela's co-workers. 
 
 ![](/assets/images/2021-12-25-paris-chapter3/tg1.jpg)
 
