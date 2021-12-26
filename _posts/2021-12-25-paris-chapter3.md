@@ -23,6 +23,10 @@ Shortly after the last blogpost, Angela and I checked out the [Centre Pompidou](
 A few days later, we had an American Thanksgiving! We had two teachers over that Angela works with, plus a partner and a cousin in tow. It went down surprisingly well! We got a turkey (from an American food specialty store), and made green beans, potatoes, and Angela's mushroom gravy. Antoine (the cousin) made a pumpkin pie - and whipped cream too! It was super fun - the "first Thanksgiving" for one of Angela's co-workers. 
 
 ![](/assets/images/2021-12-25-paris-chapter3/tg1.jpg)
+![](/assets/images/2021-12-25-paris-chapter3/tg2.jpg)
+![](/assets/images/2021-12-25-paris-chapter3/tg3.jpg)
+![](/assets/images/2021-12-25-paris-chapter3/tg4.jpg)
+![](/assets/images/2021-12-25-paris-chapter3/tg5.jpg)
 
 ## Archives Nationales
 
@@ -88,7 +92,7 @@ Then we went to Frankfurt! We went to a botanical garden ...
 
 ## Merry Christmas!
 
-Merry Christmas from Paris everyone! Looking forward to seeing you in the new year!
+Merry Christmas from Paris everyone! Looking forward to seeing you all in the new year! We're keeping warm and doing crafts. On Christmas eve we went to a Paris Christmas market - much smaller but I kind of liked it better than Strasbourg. We had roasted chestnuts for the first time (would recommend). 
 
 ![](/assets/images/2021-12-25-paris-chapter3/px1.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/px2.jpg)
