@@ -13,10 +13,9 @@ Shortly after the last blogpost, Angela and I checked out the [Centre Pompidou](
 
 
 ![](/assets/images/2021-12-25-paris-chapter3/cp1.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/cp2.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/cp3.jpg)
-![](/assets/images/2021-12-25-paris-chapter3/cp4.jpg)
 ![](/assets/images/2021-12-25-paris-chapter3/cp5.jpg)
+![](/assets/images/2021-12-25-paris-chapter3/cp2.jpg)
+![](/assets/images/2021-12-25-paris-chapter3/cp4.jpg)
 
 ## Thanksgiving
 
